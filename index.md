@@ -4,6 +4,7 @@
 |---|---|---|
 |cat|[type](https://docs.microsoft.com/windows-server/administration/windows-commands/type)|[Get-Content](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Content)|
 |cd|[cd](https://docs.microsoft.com/windows-server/administration/windows-commands/cd)|[Set-Location](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Set-Location)|
+|cp|[copy](https://docs.microsoft.com/windows-server/administration/windows-commands/copy)|[Copy-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/copy-item)|
 |clear|[cls](https://docs.microsoft.com/windows-server/administration/windows-commands/cls)|[Clear-Host](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/functions/clear-host)|
 |del|[del](https://docs.microsoft.com/windows-server/administration/windows-commands/del)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |dir|[dir](https://docs.microsoft.com/windows-server/administration/windows-commands/dir)|[Get-ChildItem](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/get-childitem)|
