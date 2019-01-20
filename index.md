@@ -25,3 +25,7 @@
 |rm|[erase](https://docs.microsoft.com/windows-server/administration/windows-commands/erase)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |tail||[Get-Content -Tail 10](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Content)|
 |touch||[New-Item -ItemType File](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/new-item)|
+
+## References
+- [PowerShell](https://docs.microsoft.com/powershell/scripting/overview). Then click on Reference at the end of the TOC on the left side.
+- [Windows Commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
