@@ -21,6 +21,7 @@
 |mv|[move](https://docs.microsoft.com/windows-server/administration/windows-commands/move)|[Move-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/move-item)|
 |mv|[ren](https://docs.microsoft.com/windows-server/administration/windows-commands/ren)|[Rename-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/rename-item)|
 |ps|[tasklist](https://docs.microsoft.com/windows-server/administration/windows-commands/tasklist)|[Get-Process](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Process)|
+|pwd|[cd](https://docs.microsoft.com/windows-server/administration/windows-commands/cd)|[Get-Location](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/get-location)|
 |rm|[del](https://docs.microsoft.com/windows-server/administration/windows-commands/del)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |rm|[erase](https://docs.microsoft.com/windows-server/administration/windows-commands/erase)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |tail||[Get-Content -Tail 10](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Content)|
