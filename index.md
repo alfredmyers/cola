@@ -26,6 +26,7 @@
 |rm|[erase](https://docs.microsoft.com/windows-server/administration/windows-commands/erase)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |tail||[Get-Content -Tail 10](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Content)|
 |touch||[New-Item -ItemType File](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/new-item)|
+|unzip||[Expand-Archive](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Archive/Expand-Archive)|
 
 ## References
 
