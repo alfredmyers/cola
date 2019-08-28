@@ -14,6 +14,7 @@
 |clear|[cls](https://docs.microsoft.com/windows-server/administration/windows-commands/cls)|[Clear-Host](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/functions/clear-host)|
 |dir|[dir](https://docs.microsoft.com/windows-server/administration/windows-commands/dir)|[Get-ChildItem](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/get-childitem)|
 |head||[Get-Content -TotalCount 10](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Content)|
+|history|[doskey /h](https://docs.microsoft.com/windows-server/administration/windows-commands/doskey)|[Get-History](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Core/Get-History)|
 |hostname|[hostname](https://docs.microsoft.com/windows-server/administration/windows-commands/hostname)|$env:computername|
 |kill|[taskkill](https://docs.microsoft.com/windows-server/administration/windows-commands/taskkill)|[Stop-Process](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Stop-Process)|
 |mkdir|[md](https://docs.microsoft.com/windows-server/administration/windows-commands/md)|[New-Item -ItemType Directory](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/new-item)|
