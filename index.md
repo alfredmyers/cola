@@ -2,6 +2,7 @@
 
 |bash |cmd |PowerShell|
 |---|---|---|
+||[mountvol](https://docs.microsoft.com/windows-server/administration/windows-commands/mountvol) S: /s|[Get-Partition](https://docs.microsoft.com/powershell/module/storage/get-partition) \| ? IsSystem \| [Set-Partition](https://docs.microsoft.com/powershell/module/storage/set-partition) -NewDriveLetter S|
 ||net start|[Start-Service](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Start-Service)
 ||net stop|[Stop-Service](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Stop-Service)
 ||[sc query](https://docs.microsoft.com/windows-server/administration/windows-commands/sc-query)|[Get-Service](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Service)|
