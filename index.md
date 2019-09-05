@@ -24,7 +24,9 @@
 |mv|[ren](https://docs.microsoft.com/windows-server/administration/windows-commands/ren)|[Rename-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/rename-item)|
 |open<sup>1</sup>|[start](https://docs.microsoft.com/windows-server/administration/windows-commands/start)|[Start-Process](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/start-process)|
 |ping|[ping](https://docs.microsoft.com/windows-server/administration/windows-commands/ping)|[Test-Connection](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/test-connection)|
+|popd|[popd](https://docs.microsoft.com/windows-server/administration/windows-commands/popd)|[Pop-Location](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/pop-location)|
 |ps|[tasklist](https://docs.microsoft.com/windows-server/administration/windows-commands/tasklist)|[Get-Process](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Process)|
+|pushd|[pushd](https://docs.microsoft.com/windows-server/administration/windows-commands/pushd)|[Push-Location](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/push-location)|
 |pwd|[cd](https://docs.microsoft.com/windows-server/administration/windows-commands/cd)|[Get-Location](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/get-location)|
 |rm|[del](https://docs.microsoft.com/windows-server/administration/windows-commands/del)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |rm|[erase](https://docs.microsoft.com/windows-server/administration/windows-commands/erase)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
