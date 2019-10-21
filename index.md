@@ -31,6 +31,7 @@
 |rm|[del](https://docs.microsoft.com/windows-server/administration/windows-commands/del)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |rm|[erase](https://docs.microsoft.com/windows-server/administration/windows-commands/erase)|[Remove-Item](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/remove-item)|
 |tail||[Get-Content -Tail 10](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Content)|
+|tee||[Tee-Object](https://docs.microsoft.com/powershell/module/microsoft.powershell.utility/tee-object)|
 |touch||[New-Item -ItemType File](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/new-item)|
 |unzip||[Expand-Archive](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Archive/Expand-Archive)|
 |xdg-open<sup>2</sup>|[start](https://docs.microsoft.com/windows-server/administration/windows-commands/start)|[Start-Process](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/start-process)|
