@@ -8,6 +8,7 @@
 ||[sc query](https://docs.microsoft.com/windows-server/administration/windows-commands/sc-query)|[Get-Service](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Service)|
 ||sc start|[Start-Service](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Start-Service)
 ||sc stop|[Stop-Service](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Stop-Service)
+|arp|[arp](https://docs.microsoft.com/windows-server/administration/windows-commands/arp)|[Get-NetNeighbor](https://docs.microsoft.com/powershell/module/nettcpip/get-netneighbor)|
 |cat|[type](https://docs.microsoft.com/windows-server/administration/windows-commands/type)|[Get-Content](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Get-Content)|
 |cd|[cd](https://docs.microsoft.com/windows-server/administration/windows-commands/cd)|[Set-Location](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Set-Location)|
 |cd|[chdir](https://docs.microsoft.com/windows-server/administration/windows-commands/chdir_1)|[Set-Location](https://docs.microsoft.com/powershell/module/Microsoft.PowerShell.Management/Set-Location)|
