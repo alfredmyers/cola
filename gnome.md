@@ -1,12 +1,14 @@
 # Key bindings for Gnome
 
 ## Launcher
+
 Description|Key binding
 ---|---
 Launch terminal|Ctl+Alt+T
 
 
 ## Navigation
+
 Description|Key binding
 ---|---
 Move window one monitor to the left|Shift+Super+Left
@@ -16,6 +18,7 @@ Switch windows directly|Alt+Escape
 
 
 ## Windows
+
 Description|Key binding
 ---|---
 Hide window|Super+H
